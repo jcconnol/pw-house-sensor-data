@@ -5,7 +5,7 @@ import RPi.GPIO as GPIO
 from picamera import PiCamera
 from time import sleep
 
-if __name__=='__main__':
+def runFacialRec():
     deskLEDsPin = 24
 
     #load known pictures
