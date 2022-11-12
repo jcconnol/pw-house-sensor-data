@@ -3,3 +3,5 @@ Pictures/Testing/*
 Pictures/Known/*
 
 tmp/*
+
+.env
